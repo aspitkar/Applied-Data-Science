@@ -1,14 +1,3 @@
-# GROUP 5 
-# IST 687 Project
-# Group Members: 
-# 1) Anuj Jayaswal
-# 2) Nidhi Ketan
-# 3) Aditi Patel
-# 4) Prachi Nanda
-# 5) Adwait Pitkar
-# 6) Noor Al Jiboury
-
-
 #################################################################################
 
 # Install Required Packages
